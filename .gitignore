@@ -1,0 +1,11 @@
+# Node.js
+*.log
+*.npmrc
+node_modules/
+npm-debug.log*
+yarn-error.log
+
+# Next.js
+.next/
+out/
+dist/
